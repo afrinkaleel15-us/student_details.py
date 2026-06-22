@@ -1,11 +1,17 @@
-# To-Do List App
+# Student Management System
 
-A simple Python application to manage daily tasks.
+A simple Python console-based application for managing student records.
 
 ## Features
-- Add Task
-- View Tasks
-- Delete Task
+- Add Student
+- View Students
+- Search Student
+- Delete Student
 
-## Technology
+## Technologies Used
 - Python
+- Dictionaries
+- Lists
+
+## Author
+Ayesha Zainab
