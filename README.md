@@ -14,4 +14,4 @@ A simple Python console-based application for managing student records.
 - Lists
 
 ## Author
-Afrin Kaleel 
+Afrin Kaleel
